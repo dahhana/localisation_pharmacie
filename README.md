@@ -1,5 +1,5 @@
 # localisation_pharmacie
-# Ce projet a pour but de mettre en place une interface permettant de localiser les pharmacies de garde de jour et de nuit selon la ville et la zone.
+Ce projet a pour but de mettre en place une interface permettant de localiser les pharmacies de garde de jour et de nuit selon la ville et la zone.
 Il utilise Spring boot en back end, React Js en frontend web, et java en mobile.
 
 ### Fonctionnalités
