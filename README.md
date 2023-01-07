@@ -25,4 +25,4 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 
 
 ### Auteur
-Ce projet a été réalisé par Doha Dahhane
+Ce projet a été réalisé par Doha Dahhane.
